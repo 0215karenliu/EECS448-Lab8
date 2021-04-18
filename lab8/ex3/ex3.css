@@ -1,5 +1,4 @@
-font
-{
+font{
  background-color: white;
  color: black;
  font-family: arial;
@@ -11,35 +10,30 @@ body {
  background-color: #cccccc;
 }
 
-font.small
-{
+font.small{
   font-size: 22px;
 }
 
-font.nobackground
-{
+font.nobackground{
   background-color: transparent;
   font-size: 22px;
 }
 
-font:hover
-{
+font:hover{
   background-color: black;
   color: white;
   font-family: arial;
   font-size: 22px;
 }
 
-a
-{
+a{
   background-color: white;
   color: black;
   font-family: arial;
   font-size: 22px;
 }
 
-a:hover
-{
+a:hover{
   background-color: black;
   color: white;
   font-family: arial;
