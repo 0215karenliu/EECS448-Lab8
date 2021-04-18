@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
-    main();
+    ex4();
 });
 
-function main() {
-    console.log("Hello World!");
+function ex4() {
+    console.log("Hello.");
     let s = document.getElementById('sample');
     let comp = (lowerBound, upperBound) => {
         return ((i) => {
@@ -44,3 +44,4 @@ function main() {
         s.style.backgroundColor = 'rgb(' + r + ',' + g + ',' + b + ', 1)';
     });
 }
+
