@@ -1,0 +1,47 @@
+font
+{
+ background-color: white;
+ color: black;
+ font-family: arial;
+ font-size: 40px;
+}
+
+body {
+ background-image: url("https://wallpaperaccess.com/full/192448.jpg");
+ background-color: #cccccc;
+}
+
+font.small
+{
+  font-size: 22px;
+}
+
+font.nobackground
+{
+  background-color: transparent;
+  font-size: 22px;
+}
+
+font:hover
+{
+  background-color: black;
+  color: white;
+  font-family: arial;
+  font-size: 22px;
+}
+
+a
+{
+  background-color: white;
+  color: black;
+  font-family: arial;
+  font-size: 22px;
+}
+
+a:hover
+{
+  background-color: black;
+  color: white;
+  font-family: arial;
+  font-size: 22px;
+}
